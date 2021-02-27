@@ -7,4 +7,5 @@ package com.duyi;
  * @version: 1.0
  */
 public class MianTest {
+
 }
